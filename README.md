@@ -19,22 +19,22 @@ I have the following programming skills:
 ## Linux CLI, and HTTP
 <details>
  <summary>Quiz 1</summary>
- ![](task_linux_cli/quiz_1.png)
+ ![quiz_1](task_linux_cli/quiz_1.png)
 </details>
 
 <details>
  <summary>Quiz 12</summary>
- ![](task_linux_cli/quiz_2.png)
+ ![quiz_2](task_linux_cli/quiz_2.png)
 </details>
 
 <details>
  <summary>Quiz 3</summary>
- ![](task_linux_cli/quiz_3.png)
+ ![quiz_3](task_linux_cli/quiz_3.png)
 </details>
 
 <details>
  <summary>Quiz 4</summary>
- ![](task_linux_cli/quiz_4.png)
+ ![quiz_4](task_linux_cli/quiz_4.png)
 </details>
 
 >A very interestingly designed program for Linux teams in [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/). But in my opinion, many things are underused and need more for some sysadmins. 
