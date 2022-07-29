@@ -19,21 +19,25 @@ I have the following programming skills:
 ## Linux CLI, and HTTP
 <details>
  <summary>Quiz 1</summary>
+
  ![quiz_1](./task_linux_cli/quiz_1.png)
 </details>
 
 <details>
  <summary>Quiz 2</summary>
+
  ![quiz_2](./task_linux_cli/quiz_2.png)
 </details>
 
 <details>
  <summary>Quiz 3</summary>
+
  ![quiz_3](./task_linux_cli/quiz_3.png)
 </details>
 
 <details>
  <summary>Quiz 4</summary>
+ 
  ![quiz_4](./task_linux_cli/quiz_4.png)
 </details>
 
