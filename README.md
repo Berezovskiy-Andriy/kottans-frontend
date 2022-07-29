@@ -15,3 +15,30 @@ I have the following programming skills:
 >But learning on Coursera is very boring and doesn't really cover everything in my opinion. There are much more interesting and useful materials on other resources on the Internet.
 >
 >Although the game is quite high-quality and interestingly made, I am convinced that this method of learning is more confusing, because in combat realities everything is much different
+
+## Linux CLI, and HTTP
+<details>
+ <summary>Quiz 1</summary>
+ ![](task_linux_cli/quiz_1.png)
+</details>
+
+<details>
+ <summary>Quiz 12</summary>
+ ![](task_linux_cli/quiz_2.png)
+</details>
+
+<details>
+ <summary>Quiz 3</summary>
+ ![](task_linux_cli/quiz_3.png)
+</details>
+
+<details>
+ <summary>Quiz 4</summary>
+ ![](task_linux_cli/quiz_4.png)
+</details>
+
+>A very interestingly designed program for Linux teams in [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/). But in my opinion, many things are underused and need more for some sysadmins. 
+>In any case, the information was new to me and quite useful in places.
+>
+>Articles about HHTP protocols that are provided for review are, in my opinion, very difficult to understand and I do not consider them correct at the beginning for a programmer. So you need to know about this protocol, but not in this form, for example, a video would be more visual. 
+>About 30% of the information a beginner programmer needs here. Therefore, I had to look for the video myself and understand a little more about this topic
