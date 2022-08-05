@@ -75,3 +75,26 @@ I have the following programming skills:
 </details>
 
 >I really disliked this interactive git game. Very confusing commands, invented in places, as well as commands that are rarely needed, especially at the beginning. I wouldn't recommend this site as a way to get started with `git`, there are better resources, the same youtube videos or different articles.
+
+## Intro to HTML and CSS
+<details>
+ <summary>Week 1</summary>
+ 
+ ![week_1](./task_html_css_intro/week%201.png)
+</details>
+
+<details>
+ <summary>Week 2</summary>
+ 
+ ![week_2](./task_html_css_intro/week%202.png)
+</details>
+
+>Since I have a basic `HTML` and `CSS` background, this stuff didn't teach me much. But it was quite interesting to listen to some moments, for example, from the history of its origin, and I also want to highlight well-structured material.
+
+<details>
+ <summary>Learn HTML and CSS</summary>
+ 
+ ![HTML_CSS](./task_html_css_intro/learn%20HTML%20and%20CSS.png)
+</details>
+
+>Pretty basic study but very cool structured and organized. I think for beginners this resource will be one of the best for gradually learning `HTML` and `CSS`.
