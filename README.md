@@ -8,7 +8,6 @@ I have the following programming skills:
 * Node JS: Express and Nest JS (basic)
 * MySQL, Postgress, Mongo DB (basic)
 
-
 ## Git та GitHub
 >In this part of the software lesson, I learned a lot of interesting and useful new things for myself.
 >For example, I learned about **`diff`** and **`patch`**, which I hadn't used before. There is also an interactive game about **`git`** that is quite educational, allowing you to learn about the *VSC* ecosystem in a simple yet insightful way.
@@ -16,7 +15,6 @@ I have the following programming skills:
 >But learning on Coursera is very boring and doesn't really cover everything in my opinion. There are much more interesting and useful materials on other resources on the Internet.
 >
 >Although the game is quite high-quality and interestingly made, I am convinced that this method of learning is more confusing, because in combat realities everything is much different.
-
 
 
 ## Linux CLI, and HTTP
@@ -51,7 +49,6 @@ I have the following programming skills:
 >About 30% of the information a beginner programmer needs here. Therefore, I had to look for the video myself and understand a little more about this topic.
 
 
-
 ## Git Collaboration
 <details>
  <summary>Week 3</summary>
@@ -82,7 +79,6 @@ I have the following programming skills:
 >I really disliked this interactive git game. Very confusing commands, invented in places, as well as commands that are rarely needed, especially at the beginning. I wouldn't recommend this site as a way to get started with `git`, there are better resources, the same youtube videos or different articles.
 
 
-
 ## Intro to HTML and CSS
 <details>
  <summary>Week 1</summary>
@@ -105,7 +101,6 @@ I have the following programming skills:
 </details>
 
 >Pretty basic study but very cool structured and organized. I think for beginners this resource will be one of the best for gradually learning `HTML` and `CSS`.
-
 
 
 ## Responsive Web Design
