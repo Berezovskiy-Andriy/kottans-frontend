@@ -98,3 +98,26 @@ I have the following programming skills:
 </details>
 
 >Pretty basic study but very cool structured and organized. I think for beginners this resource will be one of the best for gradually learning `HTML` and `CSS`.
+
+## Responsive Web Design
+>The article about adaptive was not new, but it reminded me of some points. It is concisely and informatively written.
+>
+>Although the video about flex is not new to me, it is presented in a very interesting and structured way. I like this YouTube channel, I have learned a lot from it before.
+
+<details>
+ <summary>Flexbox Froggy</summary>
+ 
+ ![flexbox_froggy](./task_responsive_web_design/flexbox_froggy.png)
+</details>
+
+>I like this game, quite intuitive with useful information. Since I have mastered the knowledge of flex well, it was not difficult to pass it.
+
+>I don't use grids, so the information presented in video format was somewhat new and useful to me. But still, I believe that at the moment everything that can be done on grids can also be done on flexes. Grids are quite specific, they have many features, so you have to be very careful when using them.
+
+<details>
+ <summary>Grid Garden</summary>
+ 
+ ![grid_garden](./task_responsive_web_design/grid_garden.png)
+</details>
+
+>Since, as I mentioned above, I don't use grids, that's why the passage of the game made me think. But thanks to the information provided earlier, I passed this game with benefit for myself.
