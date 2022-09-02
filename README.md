@@ -133,3 +133,39 @@ I have the following programming skills:
 >Interesting and creative for every task. At first glance, it is an easy task, but in the process of work there were sometimes small problems. But in the end it turned out not bad, I'm satisfied)
 
 
+## JS Basics
+<details>
+ <summary>Week 4</summary>
+ 
+ ![week_4](./task_js_basics/week_4.png)
+</details>
+
+>The information presented here is not new to me, so just reminded myself of some JS points
+
+<details>
+ <summary>Basic JavaScript</summary>
+ 
+ ![Basic JavaScript](./task_js_basics/freeCodeCamp_1.png)
+</details>
+
+<details>
+ <summary>ES6 Challenges</summary>
+ 
+ ![ES6 Challenges](./task_js_basics/freeCodeCamp_2.png)
+</details>
+
+<details>
+ <summary>Basic Data Structures, Basic Algorithm Scripting</summary>
+ 
+ ![Basic Data Structures, Basic Algorithm Scripting](./task_js_basics/freeCodeCamp_3.png)
+</details>
+
+<details>
+ <summary>Functional Programming, Algorithm Scripting Challenges</summary>
+ 
+ ![weeFunctional Programming, Algorithm Scripting Challengek_4](./task_js_basics/freeCodeCamp_4.png)
+</details>
+
+>A lot of interesting information about JS, I especially liked the tasks from the "Basic Algorithm Scripting" section, although there are some topics that are not very clear. But everything can be learned in practice, so this theory will definitely not be superfluous.
+
+
